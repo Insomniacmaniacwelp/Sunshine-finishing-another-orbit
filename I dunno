@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Happy Birthday!</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <img id="friendImage" src="friend-drinking.png" alt="Friend drinking">
+    <button id="sayButton">Say Something Funny</button>
+    <canvas id="spitCanvas"></canvas>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
